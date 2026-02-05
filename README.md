@@ -24,5 +24,5 @@ Multi-language support
 Improved accuracy with larger datasets
 
 📌 Author
-JYOTHIS K S
+Adwaith Raj V M
 BCA – Data Science & AI
